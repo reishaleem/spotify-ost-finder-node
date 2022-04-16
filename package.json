@@ -1,0 +1,23 @@
+{
+  "name": "spotify-ost-finder-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reishaleem/spotify-ost-finder-node.git"
+  },
+  "author": "Reis Haleem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reishaleem/spotify-ost-finder-node/issues"
+  },
+  "homepage": "https://github.com/reishaleem/spotify-ost-finder-node#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "typescript": "^4.6.3"
+  }
+}
